@@ -1,1 +1,1 @@
-POST http://localhost:1111/auth/register
+GET https://server-blog-post-app.onrender.com/posts/
